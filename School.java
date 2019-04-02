@@ -1,4 +1,5 @@
 public class School
 {
-private ArrayList<Student> students;
+  private String schoolname;
+  private ArrayList<Student> students;
 }
