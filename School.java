@@ -1,4 +1,4 @@
 public class School
 {
-private ArrayList<Student> students;
+private LinkedList<Student> students;
 }
