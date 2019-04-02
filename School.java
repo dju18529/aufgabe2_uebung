@@ -1,5 +1,5 @@
 public class School
 {
+  private LinkedList<Student> students;
   private String schoolname;
-  private ArrayList<Student> students;
 }
